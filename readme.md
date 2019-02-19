@@ -21,4 +21,4 @@ Download dataset from [oqmrc](https://challenger.ai/competition/oqmrc2018), and 
 ## predict
 `python config --mode test`
 # Result
-Sigle-model accuracy on dev set is 0.7287.
+Single-model accuracy on dev set is 0.7287.
