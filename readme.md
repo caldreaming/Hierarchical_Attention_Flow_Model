@@ -17,7 +17,7 @@ Download dataset from [oqmrc](https://pan.baidu.com/s/1W5yCTbSxxR1IyHctGlamuw)(p
 ## Preprocessing
 `python config --mode prepro`
 ## Train
-`pthon config --mode train`
+`python config --mode train`
 ## predict
 `python config --mode test`
 # Result
