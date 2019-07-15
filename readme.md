@@ -4,8 +4,8 @@ Multiple-Choice Reading Comprehension](https://www.aaai.org/ocs/index.php/AAAI/A
 - Specially designed for [oqmrc](https://pan.baidu.com/s/1W5yCTbSxxR1IyHctGlamuw)(password:duco) dataset.
 - Project is based on [a R-Net implementation](https://github.com/HKUST-KnowComp/R-Net).
 # Requirements
-- pthon = 3.6.0
-- tensorflow-gpu = 1.5.0
+- Python = 3.6.0
+- Tensorflow-gpu = 1.5.0
 - spaCy >= 2.0.0
 - tqdm
 # Getting started
